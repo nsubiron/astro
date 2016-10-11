@@ -1,0 +1,13 @@
+{
+	"targets": [
+		{
+			"target_name": "test_demo",
+			"type": "executable",
+			"sources": ["demo.cpp"],
+			"dependencies":
+			[
+				"astro.a"
+			]
+		}
+	]
+}
